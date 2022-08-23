@@ -1,0 +1,4 @@
+The scripts in this folder are based on a Brakeys tutorial. You can find it here:
+
+Brackeys: How to Make a Dialogue System in Unity
+https://www.youtube.com/watch?v=_nRzoTzeyxU
